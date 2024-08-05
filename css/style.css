@@ -229,7 +229,7 @@ nav ul li a{
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('assets/images/black-overlay.png');
+    background: url('https://github.com/deaprima/PORTOFOLIO/blob/main/assets/images/black-overlay.png');
     background-size: cover;
     z-index: 2;
 }
@@ -440,7 +440,7 @@ nav ul li a{
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('assets/images/black-overlay.png') no-repeat center center/cover; 
+    background: url('https://github.com/deaprima/PORTOFOLIO/blob/main/assets/images/black-overlay.png') no-repeat center center/cover; 
     background-size: cover;
     z-index: 1;
 }
